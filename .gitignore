@@ -1,0 +1,10 @@
+*.env
+*.key
+*.pem
+*.crt
+*.log
+config.json
+credentials.txt
+node_modules/
+
+
